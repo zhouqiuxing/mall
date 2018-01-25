@@ -94,7 +94,7 @@ include "dbconnection.php";
                         echo "</tr>";
                     }
                 }else{
-                    echo "<tr><td colspan=\"6\">No records found!</td></tr>";
+                    echo "<tr><td colspan=\"6\">No reco      git status ds found!</td></tr>";
                 }
 
                 ?>

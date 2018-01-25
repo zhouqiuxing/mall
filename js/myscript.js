@@ -19,7 +19,9 @@ if(document.getElementById("txtPassword").value == ""){
 
 return true;
 }
-
+function test(){
+	alert("ttt");
+}
 function validateRegister(){
 if(document.getElementById("txtName").value == ""){
 	alert("Enter name");
