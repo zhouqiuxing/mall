@@ -20,7 +20,7 @@ if(document.getElementById("txtPassword").value == ""){
 return true;
 }
 function test(){
-	alert("ttt");
+	alert("ttuuuut");
 }
 function validateRegister(){
 if(document.getElementById("txtName").value == ""){
