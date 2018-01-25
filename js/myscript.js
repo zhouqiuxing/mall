@@ -20,8 +20,9 @@ if(document.getElementById("txtPassword").value == ""){
 return true;
 }
 function test(){
-	alert("ttuuuut");
+	alert("ttuyyyyuuut");
 }
+console.log("hhh");
 function validateRegister(){
 if(document.getElementById("txtName").value == ""){
 	alert("Enter name");
